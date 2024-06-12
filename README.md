@@ -8,6 +8,6 @@
 
 3. This is an exploratory work and it needs a lot of further works to improve it, so please do let me know about your comments and suggestions by contacting me at:
 	- Email: yuehangdata@outlook.com
-	- Connect on LinkedIn: Yue Hang Tan
+	- Connect on LinkedIn: Yue Hang Tan (https://www.linkedin.com/in/yuehangtan)
 
 Thanks for reading!
