@@ -1,5 +1,5 @@
-## Tweets Sentiment Analysis
-# Mini Project 3
+# Tweets Sentiment Analysis
+## Mini Project 3
 1. In order to run the codes smoothly, please use the correct path to the training folder directory.
 	- The training data is in the folder named "Data".
 
